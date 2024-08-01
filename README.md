@@ -10,8 +10,9 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **C++ and Java.**
-- 💬 Ask me about **HTML, CSS, and JavaScript.**
+- 🌱 I’m currently learning **Python and Flutter.**
+- 💻 I have experience with **MERN projects and app development.**
+- 💬 Ask me about **HTML, CSS, JavaScript, and MERN stack.**
 - 📫 Contact me via **sasindumarasinghe74@gmail.com**
 
 ## 🌐 Connect with Me:
@@ -28,7 +29,7 @@
 ## 💻 Programming Languages:
 <p align="left">
   <a href="https://github.com/sasindu-marasinghe">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,php,py,flutter" alt="Programming Languages" />
   </a>
 </p>
 
